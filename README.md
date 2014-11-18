@@ -9,8 +9,8 @@ This tool will ask some basic informations about your project and in the end wil
 ## Instalation
 
 ``` bash
-git clone https://github.com/caio-ribeiro-pereira/go-readme.git
-cd go-readme
+git clone https://github.com/caio-ribeiro-pereira/go-readme-cli.git
+cd go-readme-cli
 sudo make install
 ```
 
