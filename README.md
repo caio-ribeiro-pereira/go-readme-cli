@@ -22,6 +22,14 @@ After install this tool, the `readme` command will be available to use, so just 
 readme init
 ```
 
+Or if you wanna ignore some template instructions, you have these choices:
+
+``` bash
+--ignore-setup, --igs   ignore setup's instructions
+--ignore-dev, --igd     ignore development's instructions
+--ignore-test, --igt    ignore test's instructions
+```
+
 ## Author
 
 Caio Ribeiro Pereira <caio.ribeiro.pereira@gmail.com>  
