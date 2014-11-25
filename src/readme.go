@@ -12,7 +12,7 @@ import (
 func main() {
   app := cli.NewApp()
   app.Name = "readme"
-  app.Version = "0.0.1"
+  app.Version = "0.0.2"
   app.Usage = "A CLI tool that generates a minimal README for your projects."
   app.Commands = []cli.Command {
     {
