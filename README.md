@@ -30,23 +30,6 @@ goreadme --ignore-dev, --igd   # ignore development's instructions
 goreadme --ignore-test, --igt  # ignore test's instructions
 ```
 
-#### Example
-
-``` bash
-Project's name:
-Myproject
-Project's short description:
-This is my new project
-Author's name:
-Caio Ribeiro Pereira
-Author's e-mail:
-caio@mail.com
-License's name:
-MIT
-
-The README.md file was generated!
-```
-
 ## Author
 
 Caio Ribeiro Pereira <caio.ribeiro.pereira@gmail.com>  
